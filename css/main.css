@@ -21,5 +21,29 @@ margin:0 auto;
 
 .logo{
   margin-top:41px;
+  float:left;
+
+}
+
+nav{
+  float:right;
+  margin-top:20px;
+
+}
+
+.menu li{
+  float:left;
+  font-size:20px;
+  padding:10px;
+  margin-right: 41px;
+}
+.menu li a{
+  color:white;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+
+
+
 
 }
